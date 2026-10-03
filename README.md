@@ -34,4 +34,4 @@ _Coming soon!_
 
 ## License
 
-Licensed under [**CC BY-NC-SA 4.0**](LICENSE)
+Licensed under [**CC BY-NC-SA 4.0**](LICENSE), except for third-party assets listed in [CREDITS.md](CREDITS.md).
