@@ -13,7 +13,6 @@ Enhanced vanilla/default resource pack designed to provide **beautiful, aestheti
 - Low shield overlay
 - Transparent totem
 - Tiny crosshair
-- Fast/opaque leaves
 - Minimal particle textures (**Bedrock-only**)
 - **Supports Java and Bedrock**
 
@@ -24,6 +23,7 @@ Enhanced vanilla/default resource pack designed to provide **beautiful, aestheti
 1. **Minecraft: Java Edition** (26.3+)
 2. **Minecraft: Bedrock Edition** (26.51+)
 3. [**Blurry's Crossplay Animations**](https://www.curseforge.com/minecraft-bedrock/addons/blurrys-crossplay-animations) (optional, **Bedrock-only**)
+4. [**SKT's Better Fast Leaves**](https://modrinth.com/resourcepack/skt-bfl) (optional)
 
 ---
 
