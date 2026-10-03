@@ -11,7 +11,8 @@ Enhanced vanilla/default resource pack designed to provide **beautiful, aestheti
 - Sharp axe
 - Low fire overlay
 - Low shield overlay
-- Small totem
+- Transparent totem
+- Tiny crosshair
 - Fast/opaque leaves
 - Minimal particle textures (**Bedrock-only**)
 - **Supports Java and Bedrock**
